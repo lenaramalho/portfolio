@@ -1,5 +1,6 @@
 # portfolio
 Projeto do meu portfólio pessoal, uma junção que reúne um pouquinho do que aprendi em HTML, CSS e JavaScript.
+
 ![image](https://github.com/user-attachments/assets/6b868e69-532d-4aa5-919f-e070bfb3f6d6)
 
 Este portfólio é uma aplicação web que demonstra minhas habilidades em desenvolvimento front-end e design de interfaces. A página inclui seções sobre mim, meus projetos, habilidades e formas de contato. Foi construído usando:
@@ -19,9 +20,16 @@ assets/: Imagens e ícones usados no portfólio.
 
 Ainda estou trabalhando nas media queries. 
 
+
+
 Contato
+
 Nome: Milena Ramalho
+
 E-mail: milena.ramalho@gmail.com
+
 LinkedIn: [Milena Ramalho](https://www.linkedin.com/in/milena-ramalho-3ab8b8262/)
+
 GitHub: lenaramalho
+
 Instagram: @lenarmlh
