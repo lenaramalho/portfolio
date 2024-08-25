@@ -18,6 +18,7 @@ Figma para design de interfaces
 
 O objetivo deste projeto é fornecer uma visão clara das minhas habilidades e projetos anteriores, bem como facilitar o contato para possíveis oportunidades de trabalho.
 
+------
 
 O projeto é organizado da seguinte forma:
 
@@ -31,7 +32,7 @@ assets/: Imagens e ícones usados no portfólio.
 
 Ainda estou trabalhando nas media queries. 
 
-
+-----
 
 Contato
 
